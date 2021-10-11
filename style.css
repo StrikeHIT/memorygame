@@ -8,7 +8,8 @@ body, html{
     margin: 0px;
     text-transform: uppercase;
     box-shadow: inset 0 0 2em white;
-    transition: 350ms all ease;;
+    transition: 350ms all ease;
+    min-height:100vh;
 }
 body.error{
     box-shadow: inset 0 0 2em red;
