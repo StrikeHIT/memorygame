@@ -46,6 +46,9 @@ footer{
     line-height: 1em;
     text-align: end;
     font-family: 'Hind Siliguri', sans-serif;
+    position: fixed;
+    right: 3px;
+    bottom: 3px;
 }
 .item{
     width: 175px;
