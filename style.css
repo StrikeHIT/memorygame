@@ -49,6 +49,10 @@ footer{
     right: 3px;
     bottom: 3px;
 }
+footer a{
+    color:#000;
+    font-size:11px;
+}
 .item{
     width: 175px;
     height: 250px;
