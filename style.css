@@ -34,7 +34,6 @@ h1{
 }
 .allcontent >div.disabled{
     pointer-events: none;
-    opacity: 0.3;
 }
 .topside{
     border-bottom: 1px solid #cbcbcb;
